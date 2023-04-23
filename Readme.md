@@ -4,7 +4,7 @@ SDK for interacting with different payment gateways supported on our services.
 
 ## Authors
 
-- [Kaycee](https://www.github.com/preciouskosisochukwu)
+- [Kaycee](https://www.github.com/kayceejenz)
 
 ## Badges
 
